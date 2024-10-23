@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "30318f55dc864ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e66bce949ad605e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba16940a40fbedab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Diagrama General.canvas",
+                "viewState": {
+                  "x": -88.65863811477533,
+                  "y": -475.2375169778789,
+                  "zoom": -0.8888890075683602
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Diagrama General"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aa76a0598b7682f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2f978a64a08738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91aac7df180a249e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "246820f4c7be4e20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffa254ba2c69c071",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6f767f0abddc73cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb4ee4cbf73fad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02cf3489ceb9428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diagrama General.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Diagrama General"
+            }
+          },
+          {
+            "id": "87af8d813a3113ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diagrama General.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diagrama General"
+            }
+          },
+          {
+            "id": "c5f7bc097195ba6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43aa640d85f89ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diagrama General.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diagrama General"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba16940a40fbedab",
+  "lastOpenFiles": [
+    "Pasted image 20241022173830.png",
+    "Diagrama General.canvas"
+  ]
+}
