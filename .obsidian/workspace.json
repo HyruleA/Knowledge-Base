@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "683e8f2aa1b7fd0e",
+        "id": "9e66bce949ad605e",
         "type": "tabs",
         "children": [
           {
-            "id": "87c112dc3a2e358c",
+            "id": "ba16940a40fbedab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Investigación.md",
-                "mode": "source",
-                "source": false
+                "file": "Alternativas MediaPipe.canvas",
+                "viewState": {
+                  "x": 631.9207217435812,
+                  "y": -478.5645701108653,
+                  "zoom": -1.6666666666666665
+                }
               },
-              "icon": "lucide-file",
-              "title": "Investigación"
+              "icon": "lucide-layout-dashboard",
+              "title": "Alternativas MediaPipe"
             }
           }
         ]
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigación.md",
+                "file": "Diagrama General.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Investigación"
+              "title": "Backlinks for Diagrama General"
             }
           },
           {
@@ -112,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigación.md",
+                "file": "Diagrama General.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Investigación"
+              "title": "Outgoing links from Diagrama General"
             }
           },
           {
@@ -139,18 +142,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigación.md"
+                "file": "Diagrama General.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Investigación"
+              "title": "Outline of Diagrama General"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,15 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91aac7df180a249e",
+  "active": "ba16940a40fbedab",
   "lastOpenFiles": [
-    "Modulos clave para el CSLR.png",
+    "Priyanjali Gupta.md",
     "Investigación.md",
-    "Taxonomia del reconocimiento continuo.png",
-    "Trabajos sobre reconocimiento continuo.png",
-    "Diagrama General.canvas",
-    "Untitled.canvas",
     "Motivación.md",
-    "Pasted image 20241022173830.png"
+    "Alternativas MediaPipe.canvas",
+    "Diagrama General.canvas",
+    "Modulos clave para el CSLR.png",
+    "Pasted image 20241022173830.png",
+    "Trabajos sobre reconocimiento continuo.png",
+    "Taxonomia del reconocimiento continuo.png"
   ]
 }
