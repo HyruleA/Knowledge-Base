@@ -11,17 +11,14 @@
             "id": "ba16940a40fbedab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagrama General.canvas",
-                "viewState": {
-                  "x": -88.65863811477533,
-                  "y": -475.2375169778789,
-                  "zoom": -0.8888890075683602
-                }
+                "file": "Investigación.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Diagrama General"
+              "icon": "lucide-file",
+              "title": "Investigación"
             }
           }
         ]
@@ -167,7 +164,8 @@
   },
   "active": "ba16940a40fbedab",
   "lastOpenFiles": [
-    "Pasted image 20241022173830.png",
-    "Diagrama General.canvas"
+    "Diagrama General.canvas",
+    "Investigación.md",
+    "Pasted image 20241022173830.png"
   ]
 }
