@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5026054382324
   },
   "right": {
     "id": "6f767f0abddc73cd",
@@ -165,8 +165,9 @@
   },
   "active": "91aac7df180a249e",
   "lastOpenFiles": [
-    "Arquitectura general del Sistema.canvas",
+    "articulos/Reviewing 25 years of CSLR research 2024.pdf",
     "articulos",
+    "Arquitectura general del Sistema.canvas",
     "Modulos clave para el CSLR.png",
     "Pasted image 20241022173830.png",
     "Trabajos sobre reconocimiento continuo.png",
