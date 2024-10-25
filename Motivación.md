@@ -4,3 +4,5 @@ La pérdida de la capacidad auditiva puede impactar significativamente en la cal
 Los intérpretes de señas juegan un papel muy importante pero, dado que existen al rededor de 300 lenguajes de señas reportadas al rededor del mundo investigar en esta área, innovar y aprovechar la tecnología existente puede ayudar a disminuir esa brecha que exite con gente con discapacidad auditiva y el resto de la comunidad.
 
 
+
+

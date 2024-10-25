@@ -89,4 +89,3 @@ Se pueden utilizar dos enfoques para integrar el SLT con el CSLR: <span style="c
 * <span style="color:green">Deletreo con dedos</span>, en el mundo real muchas veces se incluyen deletreos en las conversaciones, ser capaz de distinguirlas es también un reto grande.
 
 ### Conjunto de Datos
-
