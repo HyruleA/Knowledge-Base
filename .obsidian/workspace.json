@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Alternativas MediaPipe.canvas",
+                "file": "Arquitectura general del Sistema.canvas",
                 "viewState": {
-                  "x": 631.9207217435812,
-                  "y": -478.5645701108653,
-                  "zoom": -1.6666666666666665
+                  "x": 385.44207161875977,
+                  "y": 444.20986813865943,
+                  "zoom": -1.4089601820413535
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Alternativas MediaPipe"
+              "title": "Arquitectura general del Sistema"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "6f767f0abddc73cd",
@@ -167,14 +167,15 @@
   },
   "active": "ba16940a40fbedab",
   "lastOpenFiles": [
-    "Priyanjali Gupta.md",
-    "Investigación.md",
-    "Motivación.md",
-    "Alternativas MediaPipe.canvas",
     "Diagrama General.canvas",
-    "Modulos clave para el CSLR.png",
-    "Pasted image 20241022173830.png",
+    "Arquitectura general del Sistema.canvas",
+    "Alternativas MediaPipe.canvas",
+    "Taxonomia del reconocimiento continuo.png",
+    "Investigación.md",
     "Trabajos sobre reconocimiento continuo.png",
-    "Taxonomia del reconocimiento continuo.png"
+    "Modulos clave para el CSLR.png",
+    "Priyanjali Gupta.md",
+    "Motivación.md",
+    "Pasted image 20241022173830.png"
   ]
 }
