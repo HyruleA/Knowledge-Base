@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación - Cloud services.md",
+                "file": "Preguntas para Red Neuronal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investigación - Cloud services"
+              "title": "Preguntas para Red Neuronal"
             }
           }
         ],
@@ -195,15 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2879790596102b6",
+  "active": "91aac7df180a249e",
   "lastOpenFiles": [
+    "Diccionario de Palabras Actual.md",
+    "articulos/Spatial–temporal attention.pdf",
     "Arquitectura general del Sistema.canvas",
+    "Investigación - Papers.md",
     "Investigación - Cloud services.md",
     "Alternativas MediaPipe.canvas",
-    "articulos/Reviewing 25 years of CSLR research 2024.pdf",
-    "Investigación - Papers.md",
-    "Euristicas Glosses - Pregunta.md",
     "Diagrama General.canvas",
+    "articulos/Reviewing 25 years of CSLR research 2024.pdf",
+    "Euristicas Glosses - Pregunta.md",
     "Motivación.md",
     "Pasted image 20241022173830.png",
     "Preguntas para Red Neuronal.md",
