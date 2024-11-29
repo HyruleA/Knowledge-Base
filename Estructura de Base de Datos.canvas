@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"9dfe5dbfb84062dd","x":-676,"y":-160,"width":120,"height":60,"color":"2","type":"text","text":"Entidad"},
+		{"id":"84918558253263da","x":-740,"y":40,"width":250,"height":60,"type":"text","text":"Nombre de Dependencia"},
+		{"id":"615e97551a5845ac","x":-315,"y":-160,"width":120,"height":60,"color":"2","type":"text","text":"Tablets"},
+		{"id":"d57a79e4bd976c0d","x":-734,"y":120,"width":239,"height":60,"type":"text","text":"Clave de Dependencia"},
+		{"id":"7b618c95e3cc44b2","x":-375,"y":120,"width":240,"height":60,"type":"text","text":"Clave de Dependencia"},
+		{"id":"27c5f25a33b70f79","x":-724,"y":200,"width":219,"height":60,"type":"text","text":"Sumatoria de Tablets"},
+		{"id":"92fe98b5fda83fd1","x":-303,"y":200,"width":97,"height":60,"type":"text","text":"Area"},
+		{"id":"9032d2af5a55ab89","x":-352,"y":280,"width":194,"height":60,"type":"text","text":"Numero de Tablet"},
+		{"id":"9261ab3f8a3df510","x":-326,"y":40,"width":142,"height":60,"type":"text","text":"ID_tablet"},
+		{"id":"3a9be808ae7d53a7","x":-1015,"y":-160,"width":115,"height":60,"color":"2","type":"text","text":"Claves"},
+		{"id":"2dead967b5fcd25e","x":-1056,"y":40,"width":199,"height":60,"type":"text","text":"Clave_Secreta"},
+		{"id":"4c190fe180f47597","x":-1060,"y":120,"width":207,"height":60,"type":"text","text":"ID de Dependencia"},
+		{"id":"4c4800516cf2af10","x":82,"y":-160,"width":125,"height":60,"color":"2","type":"text","text":"Sesion"},
+		{"id":"6fbe3221f8e8f26a","x":82,"y":120,"width":125,"height":60,"type":"text","text":"Fecha"},
+		{"id":"57554d3bfd6efd1f","x":85,"y":40,"width":120,"height":60,"type":"text","text":"Token"},
+		{"id":"ff8e4cd50391d1d2","x":20,"y":200,"width":250,"height":60,"type":"text","text":"ID_tablet"}
+	],
+	"edges":[
+		{"id":"51fb62f23efdaf65","fromNode":"d57a79e4bd976c0d","fromSide":"right","toNode":"7b618c95e3cc44b2","toSide":"left"},
+		{"id":"af84c22e2b313dda","fromNode":"9261ab3f8a3df510","fromSide":"right","toNode":"ff8e4cd50391d1d2","toSide":"left"},
+		{"id":"567f807ad85a5a13","fromNode":"4c190fe180f47597","fromSide":"right","toNode":"d57a79e4bd976c0d","toSide":"left"},
+		{"id":"402cd67ad8105cd3","fromNode":"3a9be808ae7d53a7","fromSide":"bottom","toNode":"2dead967b5fcd25e","toSide":"top"},
+		{"id":"ab4a18d830a8aef9","fromNode":"9dfe5dbfb84062dd","fromSide":"bottom","toNode":"84918558253263da","toSide":"top"},
+		{"id":"6db49c453af8de1e","fromNode":"615e97551a5845ac","fromSide":"bottom","toNode":"9261ab3f8a3df510","toSide":"top"},
+		{"id":"94f58d4ac1cdb6e9","fromNode":"4c4800516cf2af10","fromSide":"bottom","toNode":"57554d3bfd6efd1f","toSide":"top"}
+	]
+}
